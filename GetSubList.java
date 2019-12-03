@@ -17,7 +17,7 @@ public class GetSubList {
 			}
 		};
 		//1st way to create sub list
-		List sub = al6.subList(1, 3);
+		List sub = al6.subList(1, 4);
 		System.out.println("Sublist derived from the main list is "+sub);
 		
 		//add an element to the sublist: the elemet is added to the main list as well
